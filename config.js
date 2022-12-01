@@ -40,14 +40,14 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6287824899711', 'leo 😸', true],
-['6285757256591', 'qory 😸', true]
+['6281646829895', 'irfaan 😸', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6287824899711'
 global.nomorown = '6287824899711'
 global.nomorown1 = '6287824899711'
-global.nomorown2 = '6285757256591'
+global.nomorown2 = '6281646829895'
 global.nomorwa = '0'
 
 
@@ -63,14 +63,14 @@ global.wm2 = 'Sanzky-Bot? '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `LEO X -😔`
-global.stickpack = 'LEO X -😔'
+global.titlebot = `LEO X IRFAAN`
+global.stickpack = 'LEO X IRFAAN'
 global.stickauth = `© Sanzky-Bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Leo 😸'
-global.nameown2 = 'qory 😸'
+global.nameown2 = 'irfaan 😸'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
